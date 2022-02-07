@@ -5,7 +5,7 @@ This project is just a prototype of "Something", it started as an VR Card game w
 - SteamVR (only for testing on PC)
 - VR Device (Oculus Quest 1/2,Valve Index, Oculus Rift, HTC Vive and any other Desktop VR device).
 ## Compatibility
-This project is compatible for Desktop builds with SteamVR and also for Android builds for Oculus Quest 1/2.
+This project is compatible for Desktop builds with SteamVR and also on Android builds for Oculus Quest 1/2.
 ## Unity Assets Used
 
 - [AutoHand](https://assetstore.unity.com/packages/tools/physics/auto-hand-vr-physics-interaction-165323) (For VR object interaction).
