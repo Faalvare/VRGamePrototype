@@ -16,7 +16,7 @@ namespace Main.Entities.AI.StateMachine.States
             foreach (var col in colliders)
             {
                 EntityStats targetStats = col.GetComponent<EntityStats>();
-                if (targetStats && targetStats != stats)
+                if (targetStats && targetStats != stats && targetStats.enabled)
                 {
                     Vector3 targetDirection = targetStats.transform.position - transform.position;
                     if (stats.faction.enemyOfEnemies)
