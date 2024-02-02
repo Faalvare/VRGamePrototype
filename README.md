@@ -24,4 +24,4 @@ This project is compatible for Desktop builds with SteamVR and also on Android b
 
 ## Architecture
 
-All the projects assets can be found on assets/_Project.
+All the projects assets can be found on assets/Main.
